@@ -1,0 +1,6 @@
+skyshoot/
+├── app.js                  ← Your main Node.js file
+├── public/                 ← For HTML, CSS, client JS
+│   ├── index.html
+│   └── style.css
+├── package.json            ← With express, socket.io
